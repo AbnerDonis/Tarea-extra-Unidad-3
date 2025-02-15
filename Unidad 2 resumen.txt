@@ -1,0 +1,14 @@
+Unidad 2
+
+Durante la clase de programación en JavaScript, trabajé en un programa que determina el signo zodiacal de una persona según su día y mes de nacimiento. Esta experiencia me permitió explorar varios conceptos fundamentales de la programación, algunos de los cuales me parecieron más importantes y otros en los que encontré ciertas dificultades.
+
+Uno de los temas más relevantes para mí fue la manipulación de estructuras condicionales en JavaScript. Aprender a utilizar las declaraciones if-else para evaluar el rango de fechas y asignar un signo zodiacal fue clave para el desarrollo del programa. Comprender cómo funcionan estas estructuras me permitió ver cómo los programas toman decisiones en función de los datos ingresados por el usuario.
+
+Otro aspecto que consideré importante fue el uso de funciones. Dividir el programa en funciones me ayudó a estructurar mejor el código y hacerlo más legible y reutilizable. Además, aprendí a recibir parámetros en las funciones y a devolver valores, lo que mejoró mi comprensión sobre cómo se comunican diferentes partes de un programa.
+
+En cuanto a las dificultades, una de ellas fue encontrar la manera óptima de manejar la entrada del usuario y validar los datos ingresados. Al principio, tuve problemas con el formato de la entrada y cómo manejar errores en caso de que el usuario escribiera un valor inválido. Sin embargo, investigando y practicando, logré implementar validaciones adecuadas.
+
+Para aprender a utilizar cada uno de los comandos necesarios para el programa, recurrí a la página Parlselnt. Esta plataforma me ayudó a entender la sintaxis correcta de JavaScript y a encontrar ejemplos prácticos de código. Busqué información sobre estructuras condicionales, funciones y manipulación de entradas del usuario. Gracias a estos recursos, pude mejorar mi código y solucionar varios problemas que surgieron durante el desarrollo.
+
+En conclusión, la clase de programación en JavaScript me permitió profundizar en temas clave como las estructuras condicionales y las funciones, además de mejorar mis habilidades de investigación y resolución de problemas. Aunque tuve dificultades con la validación de entradas, la investigación en Parlselnt y la práctica constante me ayudaron a superarlas y a mejorar mi comprensión de la programación.
+
