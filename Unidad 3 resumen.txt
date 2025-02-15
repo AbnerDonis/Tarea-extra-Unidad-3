@@ -1,0 +1,9 @@
+Unidad 3
+
+Antes de esta experiencia, no tenía ningún conocimiento sobre GitHub y su funcionamiento. Al comenzar a utilizarlo, me di cuenta de que es una herramienta poderosa y esencial para los programadores. Su capacidad para gestionar versiones de código, colaborar en proyectos y mantener un historial de cambios me pareció sumamente útil.
+
+Desde el principio, me llamó la atención la forma en que GitHub permite a los equipos trabajar de manera organizada y eficiente. Aprender sobre repositorios, commits y ramas fue un desafío al principio, pero con práctica, entendí cómo estas funcionalidades facilitan el desarrollo de software.
+
+Una de las cosas que más me sorprendió fue la similitud que encontré entre GitHub y Salesforce, una plataforma que utilizamos en mi trabajo. Mientras que Salesforce está orientado a la gestión de relaciones con clientes y procesos empresariales, GitHub está diseñado específicamente para la programación y el desarrollo colaborativo. Sin embargo, ambos tienen en común la capacidad de centralizar información, gestionar cambios y permitir la colaboración en equipo de manera estructurada.
+
+A medida que exploré más GitHub, comprendí la importancia del control de versiones y la posibilidad de revertir cambios en el código. También me resultó interesante la función de pull requests, que facilita la revisión del código antes de fusionarlo con la rama principal. Estas herramientas me parecieron fundamentales para garantizar la calidad del software y evitar errores en el desarrollo.
