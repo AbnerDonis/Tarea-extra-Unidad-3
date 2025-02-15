@@ -1,0 +1,57 @@
+No sabia donde subir esta actividad y lo subi todo junto 
+
+
+
+
+
+
+
+
+
+
+function jugar() {
+    let numeroComputadora = Math.floor(Math.random() * 9) + 1;
+
+  let numeroUsuario;
+  let adivinanzaCorrecta = false;
+
+  while (true) {
+    numeroUsuario = parseInt(prompt("Ingrese un número entre 3 y 6:"));
+    
+    if (numeroUsuario >= 3 && numeroUsuario <= 6) {
+      break; // Salir del bucle si el número es válido
+    } else {
+      alert("Número inválido. Por favor ingrese un número entre 3 y 6.");
+    }
+  }
+
+    let adivinanza;
+  if (numeroUsuario > numeroComputadora) {
+    adivinanza = "mayor";
+  } else if (numeroUsuario < numeroComputadora) {
+    adivinanza = "menor";
+  } else {
+    adivinanza = "igual";
+    adivinanzaCorrecta = true; // Si el número es igual, es una adivinanza correcta
+  }
+
+  alert(`La computadora eligió el número ${numeroComputadora}. Usted eligió el número ${numeroUsuario}. Su elección es ${adivinanza}.`);
+
+    if (adivinanzaCorrecta) {
+    alert("¡Ha adivinado!");
+  } else {
+    alert("No ha adivinado. Intente de nuevo.");
+  }
+
+    let jugarDeNuevo = prompt("¿Quiere jugar otra vez? (SI/NO)").toUpperCase();
+  
+  if (jugarDeNuevo === "SI") {
+    jugar(); // Reinicia el juego
+  } else {
+   
+    alert("¡Gracias por jugar! - Nombre: Abner Gonzalez - Carnet:18001641");
+  }
+}
+
+
+jugar();
