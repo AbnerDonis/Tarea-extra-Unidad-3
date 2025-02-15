@@ -1,0 +1,14 @@
+
+
+UNIDAD 1
+
+Durante la clase sobre códigos binarios, lógica y algoritmos, aprendí varios conceptos que considero fundamentales para comprender cómo funcionan las computadoras y los programas que usamos a diario. De todos los temas vistos, algunos me parecieron especialmente importantes, mientras que otros me resultaron más difíciles de entender.
+
+Uno de los temas que más llamó mi atención fue el sistema binario. Me pareció impresionante cómo toda la información en una computadora se puede representar con solo dos números: el 0 y el 1. Entender cómo se convierten los números decimales a binarios y viceversa fue clave para captar la importancia de este sistema en la tecnología. Además, conocer cómo se realizan operaciones matemáticas en binario me ayudó a ver la lógica detrás del funcionamiento de los procesadores.
+
+Otro tema que me pareció esencial fue la lógica booleana. Aprender sobre las puertas lógicas, como AND, OR y NOT, me hizo ver cómo se toman decisiones dentro de los circuitos electrónicos y los programas informáticos. Me resultó muy interesante descubrir cómo estos principios se aplican en la toma de decisiones de los algoritmos y en la programación en general.
+
+En cuanto a los algoritmos, entendí su importancia en la resolución de problemas y en la optimización de procesos. Aprender sobre estructuras como los diagramas de flujo y los pseudocódigos me ayudó a visualizar mejor los pasos necesarios para resolver un problema. Sin embargo, fue en este tema donde encontré algunas dificultades. A veces me costó identificar la manera más eficiente de estructurar un algoritmo y entender cómo simplificar los pasos sin perder la lógica del proceso. Con práctica y ejemplos, pude mejorar mi comprensión, pero reconozco que es un área en la que necesito seguir trabajando.
+
+En conclusión, la clase me ayudó a comprender mejor cómo funcionan las computadoras y los programas que usamos todos los días. Aprender sobre el sistema binario y la lógica booleana me pareció fundamental, mientras que los algoritmos, aunque me parecieron interesantes, me presentaron algunos desafíos. A pesar de las dificultades, considero que con más práctica podré mejorar en este aspecto y seguir aprendiendo sobre estos temas tan importantes en el mundo de la tecnología.
+
